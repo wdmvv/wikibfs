@@ -1,0 +1,6 @@
+{
+    "depth": 10,
+    "bases": ["https://en.wikipedia.org/wiki"],
+    "goroutines": 5,
+    "dbpath": ""
+}

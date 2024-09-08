@@ -1,0 +1,12 @@
+how do i see this
+
+-> gets req from some endpoint with 2 wiki links
+-> scrape and traverse
+-> insert into db cache-ish
+-> run until certain depth
+-> ???
+-> profit!
+
+
+wait does my goroutine limiter even work as intended???
+presumably yes....
